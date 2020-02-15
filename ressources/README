@@ -1,0 +1,11 @@
+
+Voici le jeu my_hunter par Arthur ROBINE.
+Le but est de tuer les canards qui passent, si vous ratez le canard 3 fois ce sera la fin de la partie et vous pourrez en relancer une autre.
+Le programme n'accepte comme entrée que la souris / le pad, Q et la barre d'espace.
+Appuyez sur Espace pour jouer ou sur Q pour quitter.
+
+This is the my_hunter game by Arthur ROBINE.
+The purpose of this game is to kill ducks, if you let them pass 3 times it will be the end of the game, but you can start another one.
+This programm only accepts Mouse / Pad, Q and spacebar as user inputs.
+Press Space to play or Q to quit the programm.
+

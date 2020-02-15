@@ -1,0 +1,5 @@
+This is my first graphical project in C. To manage graphical elements I had to use
+the CSFML library. The purpose of this game is to kill ducks.
+Build the binary thanks to the Makefile and then you can :
+- Launch the game : ./my_hunter
+- Get some help : ./my_hunter -h
